@@ -1,0 +1,87 @@
+* {
+    font-family: Tahoma;
+    
+}
+
+
+.menuHeader {
+    text-align:  center;
+}
+
+.navHeader {
+    text-align: center;
+}
+
+
+ul {
+    list-style-type: none;   
+    display: flex;
+    justify-content: space-around;  
+    margin-left: 450px;
+    margin-right: 450px;
+    
+}
+
+/* Create and center a horizontal Navigation Menu Six Minutes. Smater. */
+li {
+    width: 120px;
+    height: 40px;
+    margin: 0px 4px;
+    border: 2px solid #000;
+    border-radius: 5px;
+    border-right-color: gold;
+    border-bottom-color: gold;
+    
+   
+}
+
+/* Create and center a horizontal Navigation Menu Six Minutes. Smater. */
+a {
+    display: block;
+    width: 120px;
+    height: 40px;
+    line-height: 40px;
+    text-decoration: none;
+    text-align: center;
+   
+
+}
+
+
+img {
+    height: 200px;
+    width: 250px;
+    border-radius: 15%;
+    border: 3px solid gold;
+} 
+
+.price {
+    color: orange;
+}
+
+
+
+.rowOne {
+    display: flex;
+    justify-content: space-around;
+    
+    padding-left: 50px;
+    padding-right: 50px;
+    animation: fadeIn 5s;
+}
+
+.rowOneTwo {
+    display: flex;
+    margin-left: 250px;
+    
+   
+}
+
+
+.rowOneTwoTwo {
+    display: flex;
+    margin-right: 250px;
+}
+
+
+
