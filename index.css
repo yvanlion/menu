@@ -20,7 +20,10 @@ ul {
     margin-left: 450px;
     margin-right: 450px;
     
+    
 }
+
+
 
 /* Create and center a horizontal Navigation Menu Six Minutes. Smater. */
 li {
@@ -34,6 +37,13 @@ li {
     
    
 }
+
+/*highlights li boxes*/
+li:hover{
+    background: orange; 
+     
+}
+
 
 /* Create and center a horizontal Navigation Menu Six Minutes. Smater. */
 a {
